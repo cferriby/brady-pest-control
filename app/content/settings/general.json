@@ -1,7 +1,7 @@
 {
   "title": "Home",
-  "titleTemplate": "Brady Pest Control",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "titleTemplate": "| Brady Pest Control",
+  "welcomeText": "# Brady Pest Control\n\nBrady Pest Control is here to serve all your pest control needs in the Blue Water Area. Our expert technicians and staff are knowleadge and always ready to help you with any pest issues or prevention needs you might have.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
